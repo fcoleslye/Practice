@@ -2,8 +2,8 @@
 
 - another line
 
--transfer file
+- transfer file
 
--another one and no more
+- another one and no more
 
 - the new problem
